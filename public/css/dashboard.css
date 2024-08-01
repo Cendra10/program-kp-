@@ -1,0 +1,146 @@
+/* Ini CSS Dashboard */
+
+.jumbotron {
+  padding-top: 35px;
+  background-color: #f3f4f5;
+}
+
+.jumbotron img {
+  max-width: 30%; /* Maksimum lebar sesuai dengan parent element */
+  height: auto; /* Biarkan tingginya disesuaikan agar aspek ratio tetap terjaga */
+}
+
+.profile-image {
+  border-radius: 50%; /* Sudut melengkung untuk membuatnya terlihat seperti lingkaran */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Efek bayangan */
+  /* Properti lain sesuai kebutuhan */
+}
+
+#about {
+  background-color: #f3f4f5;
+}
+#projects {
+  padding-top: 10px;
+  background-color: #fff203;
+}
+
+.row-projects {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.card {
+  /* Mungkin Anda ingin menambahkan beberapa gaya tambahan untuk penataan kartu */
+  margin: 0 auto; /* Ini akan membuat kartu berada di tengah */
+}
+
+#contact {
+  background-color: #f3f4f5;
+  card-body: 10px;
+  padding: 20px 0.1px;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+/* login */
+
+#login-admin {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.card {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+  width: 300px;
+}
+
+.card-header {
+  text-align: center;
+}
+
+.card-body {
+  margin-bottom: 20px;
+}
+
+.form-group label {
+  display: block;
+  font-weight: bold;
+}
+
+.form-group input {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+}
+
+.form-group button {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 3px;
+  cursor: pointer;
+  width: 100%;
+}
+
+/* register */
+
+#daftar {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  margin-bottom: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+#register-section {
+  text-align: center;
+}
+
+.card-register {
+  background-color: #fa;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+  width: 300px;
+}
+
+.form-label {
+  display: block;
+  font-weight: bold;
+}
+
+.form-control {
+  width: 90%;
+  margin: 0 auto;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  margin-bottom: 10px;
+}
+
+.form-submit {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 3px;
+  cursor: pointer;
+  width: 50%;
+}
