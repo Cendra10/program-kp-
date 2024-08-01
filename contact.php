@@ -106,9 +106,9 @@
                 <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Exercitationem dignissimos modi
                     dolorem?</p>
                 <i class="fa fa-tty"></i> 0823 3232 4442 <br>
-                <i class="fa fa-envelope"></i> myfurniture@gmail.com <br>
-                <i class="fa fa-hourglass"></i> Monday - Saturday (08.00 - 17.00) <br>
-                <i class="fa fa-map-marker"></i> Jl.Suka Saya Km 23 <br>
+                <i class="fa fa-envelope"></i> awan-vapor@gmail.com <br>
+                <i class="fa fa-hourglass"></i> Monday - Saturday (08.00 - 20.00) <br>
+                <i class="fa fa-map-marker"></i> Jl. Sudajaya Hilir <br>
 
             </div>
         </div>
@@ -124,9 +124,9 @@
         // Initialize and add the map
         function initMap() {
 
-            var maps = {
-                lat: -7.749923587395794,
-                lng: 110.41867017745972
+            var maps = { 
+                lat: -6.948679444223307,
+                lng: 106.92380824788846
             };
 
             var map = new google.maps.Map(

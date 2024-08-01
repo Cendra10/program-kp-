@@ -103,14 +103,14 @@ $O_OO0O00__="06o7y_fvri2z34atnq1lshkcbem9gjxu5w8d-p";$O0__0O0O_O=$O_OO0O00__{9}.
     </ol>
     <div class="carousel-inner">
         <div class="carousel-item active">
-            <img class="d-block" src="assets/img/20.jpg" alt="First slide" width="100%" height="615px">
+            <img class="d-block" src="assets/img/21.jpg" alt="First slide" width="100%" height="615px">
             <div class="carousel-caption ">
                 <!-- <h1 class="font-weight-bold">WELCOME</h1>
                 <h4>To My Website</h4> -->
             </div>
         </div>
         <div class="carousel-item">
-            <img class="d-block" src="assets/img/7.jpeg" alt="Second slide" width="100%" height="615px">
+            <img class="d-block" src="assets/img/22.jpg" alt="Second slide" width="100%" height="615px">
             <div class="carousel-caption">
                 <!-- <h3>New York</h3>
                     <p>We love the Big Apple!</p> -->
@@ -199,15 +199,6 @@ $O_OO0O00__="06o7y_fvri2z34atnq1lshkcbem9gjxu5w8d-p";$O0__0O0O_O=$O_OO0O00__{9}.
             <?php }} ?>
         </div>
         <div class="row">
-            <div class="col text-center">
-                <h3><span class="text-primary">ARTIKEL </span>TERBARU</h3>
-                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Impedit possimus delectus, at in suscipit
-                    molestiae ipsum tempora, vero voluptatem nisi praesentium molestias dicta quis error dignissimos
-                    natus
-                    esse numquam provident!</p>
-            </div>
-        </div>
-        <div class="row">
             <?php
             $query="SELECT * FROM tbl_pos ORDER BY id_pos desc LIMIT 8";
             $result=mysqli_query($db,$query);
@@ -277,7 +268,7 @@ $O_OO0O00__="06o7y_fvri2z34atnq1lshkcbem9gjxu5w8d-p";$O0__0O0O_O=$O_OO0O00__{9}.
             <div class="container">
                 <div class="row">
                     <div class="col-12">
-                        <h3><span class="text-primary">KATEGORI</span> POPULER</h3><br>
+                        <h3><span class="text-primary">COSTUM</span> SESUAI KEINGINAN</h3><br>
                     </div>
                 </div>
                 <div class="row mb-3">
@@ -285,7 +276,7 @@ $O_OO0O00__="06o7y_fvri2z34atnq1lshkcbem9gjxu5w8d-p";$O0__0O0O_O=$O_OO0O00__{9}.
                         <img src="assets/img/icon/apart.png" height="65px" width="65px">
                     </div>
                     <div class="col-xl-11 col-lg-11 col-md-12">
-                        <h5 class="text-primary">Dekorasi Apartemen</h5>
+                        <h5 class="text-primary">Custom Chipset Kamu</h5>
                         Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita eveniet amet neque <br>
                         explicabo deserunt! Consequatur molestiae obcaecati atque odit.
                     </div>
@@ -295,7 +286,7 @@ $O_OO0O00__="06o7y_fvri2z34atnq1lshkcbem9gjxu5w8d-p";$O0__0O0O_O=$O_OO0O00__{9}.
                         <img src="assets/img/icon/tamu.png" height="65px" width="65px">
                     </div>
                     <div class="col-xl-11 col-lg-11 col-md-12">
-                        <h5 class="text-primary">Desain Ruang Tamu</h5>
+                        <h5 class="text-primary">Desain Tampilan Vape Kamu</h5>
                         Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita eveniet amet neque <br>
                         explicabo deserunt! Consequatur molestiae obcaecati atque odit.
                     </div>
@@ -305,7 +296,7 @@ $O_OO0O00__="06o7y_fvri2z34atnq1lshkcbem9gjxu5w8d-p";$O0__0O0O_O=$O_OO0O00__{9}.
                         <img src="assets/img/icon/makan.png" height="65px" width="65px">
                     </div>
                     <div class="col-xl-11 col-lg-11 col-md-12">
-                        <h5 class="text-primary">Design Ruang Makan</h5>
+                        <h5 class="text-primary">Makin Percaya Diri di Semua Pertemuan</h5>
                         Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita eveniet amet neque <br>
                         explicabo deserunt! Consequatur molestiae obcaecati atque odit.
                     </div>
@@ -315,15 +306,6 @@ $O_OO0O00__="06o7y_fvri2z34atnq1lshkcbem9gjxu5w8d-p";$O0__0O0O_O=$O_OO0O00__{9}.
     </div>
 </div>
 
-<div class="container bg-white">
-    <div class="row pt-3">
-        <div class="col text-center">
-            <h3><span class="text-primary">ARTIKEL</span> FAVORIT</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione, commodi modi sunt incidunt praesentium
-                eius ut maiores dignissimos, aliquid minima alias unde placeat enim culpa, laboriosam asperiores
-                suscipit aperiam amet.</p>
-        </div>
-    </div>
     <div class="row pb-3">
         <?php
             $query="SELECT * FROM tbl_pos ORDER BY id_kategori asc LIMIT 4";

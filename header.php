@@ -18,7 +18,7 @@
     <link rel="stylesheet" href="assets/js/owl/owl.carousel.css">
     <link rel="stylesheet" href="assets/js/owl/owl.theme.css">
     <!-- Favicon -->
-    <link rel="shortcut icon" href="assets/img/icon/favicon.png">
+    <link rel="shortcut icon" href="assets/img/icon/fav.png">
     <link href="assets/css/material-design/css/materialdesignicons.css" rel="stylesheet" type="text/css">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/sweetalert/2.1.2/sweetalert.min.js"></script>
     <script src="assets/jquery/jquery.min.js"></script>
@@ -104,7 +104,7 @@
         }
     </style>
 
-    <title>My Furniture</title>
+    <title>AwanVapor</title>
 </head>
 
 <body>
@@ -122,12 +122,6 @@
                     <ul class="navbar-nav">
                         <li class="nav-item">
                             <a class="nav-link" href="index.php">Home</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="gallery.php">Gallery</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="blog.php">Blog</a>
                         </li>
                         <li class="nav-item dropdown">
                             <a class="nav-link" href="shop.php">Shop</a>

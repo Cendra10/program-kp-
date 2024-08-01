@@ -11,7 +11,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <link rel="stylesheet" href="assets/css/bootstrap.css">
     <link rel="stylesheet" href="assets/icons/font-awesome/css/font-awesome.min.css">
-    <link rel="shortcut icon" href="assets/images/favicon.png">
+    <link rel="shortcut icon" href="assets/images/fav.png">
     <script src="assets/js/bootstrap.min.js"></script>
     <script src="assets/js/sweetalert.min.js"></script>
 
@@ -158,7 +158,7 @@
 <body>
     <div class="signup-form">
         <form action="" method="post">
-            <h2>Log In</h2>
+            <h2>Log In Admin</h2>
             <p>Please enter your account correctly!</p>
             <hr>
             <div class="form-group">

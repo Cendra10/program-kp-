@@ -112,7 +112,7 @@ if (isset($_POST['ubah'])) {
 					<div class="row">
 						<div class="col-sm-6">
 							<div class="form-group">
-								<label>Berat Produk (Kg)</label>
+								<label>Berat Produk (Ons)</label>
 								<input name="berat" type="text" class="form-control"
 									value="<?php echo $produk['berat']; ?>"></div>
 							<div class="form-group">

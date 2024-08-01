@@ -40,7 +40,7 @@
                 <div class="row text-white">
                     <div class="col-md-2 mx-auto">
                         <h5 class="font-weight-bold text-uppercase mt-3 mb-2">ABOUT US</h5>
-                        My Furniture is a website that sells a variety of good quality furniture or household appliances.
+                        AwanVapestore is a website that sells a variety of good quality furniture or household appliances.
                         <br>
                         <img src="assets/img/icon/ig.PNG" height="25px" width="25px" alt="">
                         <img src="assets/img/icon/fb.png" height="25px" width="25px" alt="">
@@ -96,15 +96,15 @@
                     <div class="col-md-2 mx-auto">
                         <h5 class="font-weight-bold text-uppercase mt-3 mb-2">CONTACT US</h5>
                         <ul class="list-unstyled">
-                            +62 8167 2837 2626 <br>
-                            myfurniture@gmail.com <br>
-                            Jl.Sukasaya Km 17
+                            +62 857 2329 2226 <br>
+                            awan-vapor.business.site<br>
+                            Jl. Sudajaya Hilir, Kec. Baros, Kota Sukabumi
                         </ul>
                     </div>
                 </div>
             </div>
-            <div class="footer-copyright text-center py-3 bg-dark text-white">©2020 Copyright :
-                <a href="index.html"> myfurniture.tugassaya.com</a>
+            <div class="footer-copyright text-center py-3 bg-dark text-white">©2024 Copyright :
+                <a href="index.html"> AwanVapor</a>
             </div>
         </div>
     </footer>

@@ -55,7 +55,7 @@
 <div class="container bg-white rounded pt-4 pb-4">
     <div class="row no-gutter">
         <div class="col-sm-8 text-justify">
-            <h4>ABOUT US MY FURNITURE</h4>
+            <h4>ABOUT US MY VAPERSTORE</h4>
             <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Fugit labore officia iste nemo
                 placeat
                 quo tempora dolorum magnam similique? Voluptas mollitia autem corrupti laudantium iure

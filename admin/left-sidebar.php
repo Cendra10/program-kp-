@@ -14,21 +14,6 @@
                     <a href="index.php?pages=dashboard" class="waves-effect"><i
                             class="mdi mdi-view-dashboard"></i><span>Dashboard</span></a>
                 </li>
-                <li class="menu-title">Umum</li>
-                <li class="has_sub">
-                    <a href="javascript:void(0);" class="waves-effect"><i class="mdi mdi-near-me"></i>
-                        <span> Pos <span class="pull-right"><i class="mdi mdi-chevron-right"></i></span></span></a>
-                    <ul class="list-unstyled">
-                        <li>
-                            <a href="index.php?pages=pos">Semua Pos</a>
-                        </li>
-                        <li>
-                            <a href="index.php?pages=tambah-pos">Tambah Baru</a>
-                        </li>
-                        <li>
-                            <a href="index.php?pages=kategori-pos">Kategori</a>
-                        </li>
-                    </ul>
                 </li>
                 <li class="has_sub">
                     <a href="javascript:void(0);" class="waves-effect"><i class="mdi mdi-buffer"></i>

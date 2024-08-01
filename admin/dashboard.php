@@ -64,18 +64,6 @@ $dta6 = mysqli_fetch_assoc($res6);
 				</p>
 			</div>
 		</div>
-		<div class="col-md-6 col-xl-3">
-			<div class="mini-stat clearfix bg-purple">
-				<span class="font-40 text-white mr-0 float-right"><i class="mdi mdi-lead-pencil"></i></span>
-				<div class="mini-stat-info mt-3 float-left">
-					<span style="font-size: small;" class="text-white">Total Artikel</span>
-				</div>
-				<div class="clearfix"></div>
-				<p class=" mb-0 m-t-10 text-muted">
-					<h4 class="counter font-light mt-0 text-white"><?php echo number_format($dta6['jml']); ?> Artikel</h4>
-				</p>
-			</div>
-		</div>
 	</div>
 </div>
 

@@ -46,7 +46,7 @@ if (isset($_GET['id']))
 						<tr>
 							<th>Image</th>
 							<th>Nama Produk</th>
-							<th>Berat (Kg)</th>
+							<th>Berat (ons)</th>
 							<th>Harga</th>
 							<th>Stok</th>
 							<th>Aksi</th>
@@ -66,7 +66,7 @@ if (isset($_GET['id']))
 							Lorem ipsum dolor sit consec te imperdiet iaculis ipsum..
 						</p> -->
 							</td>
-							<td><?php echo number_format($produk['berat']) ?> Kg</td>
+							<td><?php echo number_format($produk['berat']) ?> ons</td>
 							<td>Rp. <?php echo number_format($produk['harga']) ?></td>
 							<td><?php echo number_format($produk['stok']) ?></td>
 							<td>

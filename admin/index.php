@@ -12,12 +12,12 @@ if(!isset($_SESSION['tbl_admin'])){
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0, minimal-ui">
-    <title>Furniture</title>
+    <title>AwanVapor</title>
     <meta content="Admin Dashboard" name="description" />
     <meta content="Themesbrand" name="author" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <!-- App Icons -->
-    <link rel="shortcut icon" href="assets/images/favicon.png">
+    <link rel="shortcut icon" href="assets/images/fav.png">
     <!-- C3 charts css -->
     <link href="../plugins/c3/c3.min.css" rel="stylesheet" type="text/css" />
     <!-- DataTables -->
@@ -64,7 +64,7 @@ if(!isset($_SESSION['tbl_admin'])){
                 <!-- Page content Wrapper -->
             </div>
             <!-- content -->
-            <footer class="footer">© 2019 Furniture</span>
+            <footer class="footer">© 2024 AwanVapor</span>
             </footer>
         </div>
         <!-- End Right content here -->
